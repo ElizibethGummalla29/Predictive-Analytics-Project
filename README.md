@@ -36,3 +36,18 @@ Predictive-Analytics-Project
 ## Output
 
 The model analyzes historical sales data and predicts future sales trends.
+## Project Output
+
+### Historical Trend
+
+![Historical Trend](screenshots/historical-trend.png)
+
+
+### Actual vs Predicted
+
+![Prediction](screenshots/actual-vs-predicted.png)
+
+
+### Future Forecast
+
+![Forecast](screenshots/future-forecast.png)
