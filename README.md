@@ -40,14 +40,14 @@ The model analyzes historical sales data and predicts future sales trends.
 
 ### Historical Trend
 
-![Historical Trend](screenshots/historical-trend.png)
+![Historical Trend](historical-sales-trend.png)
 
 
 ### Actual vs Predicted
 
-![Prediction](screenshots/actual-vs-predicted.png)
+![Prediction](actual-vs-predicted-sales.png)
 
 
 ### Future Forecast
 
-![Forecast](screenshots/future-forecast.png)
+![Forecast](future-sales-forecast.png)
